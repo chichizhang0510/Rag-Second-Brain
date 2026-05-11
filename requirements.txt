@@ -1,0 +1,4 @@
+# RAG practice M1: dotenv + Chat API + BM25 (optional TF-IDF: add scikit-learn)
+python-dotenv>=1.0.0
+openai>=1.40.0
+rank-bm25>=0.2.2
