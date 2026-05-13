@@ -9,4 +9,11 @@ __pycache__/
 dist/
 build/
 
+# Chunking debug exports (keep artifacts/ with .gitkeep)
+artifacts/
+
 docs/
+.coverage
+.DS_Store
+.pytest_cache/
+htmlcov/
