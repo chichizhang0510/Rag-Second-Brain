@@ -1,0 +1,1 @@
+"""RAG practice application source package."""
